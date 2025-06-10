@@ -1,12 +1,29 @@
-# React + Vite
+🎂 Age Calculator App
+A simple and intuitive age calculator application built with React and styled using Tailwind CSS. This app allows users to input their birth date and instantly see their age in years, months, and days.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot of Age Calculator](images/image.png)
 
-Currently, two official plugins are available:
+✨ Features
+Date Input: Easy-to-use date picker for selecting the birth date.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Accurate Calculation: Calculates age precisely in years, months, and days.
 
-## Expanding the ESLint configuration
+Responsive Design: Works well on various screen sizes (mobile, tablet, desktop) thanks to Tailwind CSS.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clean UI: Modern and minimalist interface for a smooth user experience.
+
+🚀 Technologies Used
+React: A JavaScript library for building user interfaces.
+
+Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+
+JavaScript: The core programming language.
+
+📦 Setup and Installation
+To get this project up and running on your local machine, follow these steps:
+
+Clone the repository:
+Install project dependencies:
+
+npm install
+npm run dev
